@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@source "../../safelist.txt";
+
+body {
+  margin: 0;
+}
